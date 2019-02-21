@@ -1,0 +1,7 @@
+{"functionName":"cep","params":{"Cep":"57048-375"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-375\"}\n  Result: undefined","timestamp":"2019-02-21T16:45:30.417Z"}
+{"functionName":"cep","params":{"Cep":"57048-3754"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-3754\"}\n  Result: undefined","timestamp":"2019-02-21T16:45:39.250Z"}
+{"functionName":"cep","params":{"Cep":"57048-373"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-373\"}\n  Result: undefined","timestamp":"2019-02-21T16:45:57.925Z"}
+{"functionName":"cep","params":{"Cep":"57048-373"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-373\"}\n  Result: undefined","timestamp":"2019-02-21T16:47:12.530Z"}
+{"functionName":"cep","params":{"Cep":"57048-373"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-373\"}\n  Result: undefined","timestamp":"2019-02-21T16:49:17.394Z"}
+{"functionName":"cep","params":{"Cep":"57048-373"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-373\"}\n  Result: undefined","timestamp":"2019-02-21T16:50:42.226Z"}
+{"functionName":"cep","params":{"Cep":"57048-373"},"level":"info","message":"Ran cloud function cep for user undefined with:\n  Input: {\"Cep\":\"57048-373\"}\n  Result: undefined","timestamp":"2019-02-21T16:51:35.665Z"}
