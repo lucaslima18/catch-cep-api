@@ -9,7 +9,7 @@ Parse.Cloud.define('cep', (request, response) => {
             url: `http://viacep.com.br/ws/${cep}/json/`  
         }).then((httpResponse) => {
             if (httpResponse.text === "{\n  \"erro\": true\n}") {
-                response.success({'valid': false});
+                response.error({'valid': false});
             } else {
                 response.success(httpResponse.data);
             }
